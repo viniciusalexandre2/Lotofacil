@@ -34,4 +34,5 @@ javac Lotofacil.java
 Execute o programa:
 java Lotofacil
 
+
 Siga as instruções exibidas no menu para fazer suas apostas e verificar os resultados.
