@@ -7,7 +7,7 @@ public class Lotofacil {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        char letraPremiada = 'V'; // Letra premiada (pode ser alterada)
+        char letraPremiada = 'V'; // Letra premiada 
 
         int opcao;
         do {
